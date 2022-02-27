@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession of the Church of Scotland concerning the originall of political authority compendiously paraphrazed. Also a letter from an intelligent person, communicating the present affaires of Scotland, March, 14. 1647.</title>
+            <author>Church of Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79711</idno>
+            <idno type="STC">Wing C4202CA</idno>
+            <idno type="STC">ESTC R229548</idno>
+            <idno type="EEBO-CITATION">99895307</idno>
+            <idno type="PROQUEST">99895307</idno>
+            <idno type="VID">152635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79711)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152635)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2310:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession of the Church of Scotland concerning the originall of political authority compendiously paraphrazed. Also a letter from an intelligent person, communicating the present affaires of Scotland, March, 14. 1647.</title>
+                  <author>Church of Scotland.</author>
+               </titleStmt>
+               <extent>6 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeere, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 8 is misnumbered 6.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Authority --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152635:1"/>
+            <p>THE CONFESSION OF THE CHVRCH OF SCOTLAND, Concerning the Originall of Politi<g ref="char:EOLhyphen"/>cal Authority compendiouſly paraphrazed.</p>
+            <p>Alſo a Letter from an Intelligent Perſon, Communicating the preſent affaires of <hi>Scot<g ref="char:EOLhyphen"/>land, March,</hi> 14. 1647.</p>
+            <p>Printed in the Yeere, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="confession_of_the_Church_of_Scotland">
+            <pb facs="tcp:152635:2"/>
+            <pb n="3" facs="tcp:152635:2"/>
+            <head>The Confeſsion of the Church of <hi>SCOTLAND.</hi>
+            </head>
+            <p>VVE confeſſe and acknowledge, Empires, kin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>domes, Dominions, and Cities to be diſtincted and ordained by God; the Powers and Authorities in the ſame, be it of Emperours in their Empires, Kings in their Realms, Dukes and Princes in their Dominions, and of other Magiſtrates in their Cities, to be Gods holy or<g ref="char:EOLhyphen"/>dinance ordained for manifeſtation of his owne Glory, and for the ſingular profit and commodi<g ref="char:EOLhyphen"/>ty of mankind; ſo that whoſoever goeth about to take away or confound the whole ſtate of Ci<g ref="char:EOLhyphen"/>vill policies now long eſtabliſhed, wee affirme the ſame men, not onely to be Enemies to man<g ref="char:EOLhyphen"/>kinde, but alſo wickedly fight againſt Gods ex<g ref="char:EOLhyphen"/>preſſed will.</p>
+            <div type="part">
+               <head>Of the Originall of Politicall Authority.</head>
+               <p>GOD is the univerſall Monarch of the whole world, and in the ſeverall Kingdomes, and dominions ther<g ref="char:EOLhyphen"/>of, he conſtituteth Kings, and princes next under him, and in his ſtead to rule and governe the people: hence God is called the King of Kings, and they are called Gods Lievte<g ref="char:EOLhyphen"/>nants and Vice-roys.</p>
+               <p>As the King of <hi>England</hi> is the Monarch or governour of the Kingdome of <hi>England,</hi> and conſtitutes o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her ſubordi<g ref="char:EOLhyphen"/>nate Governours under him throughout all the whole
+<pb n="4" facs="tcp:152635:3"/> Kingdome; ſomtimes by name as in the government of the Counties, and ſomtimes by the election of the people, as in Cities, and Corporations; where the Inhabitants chuſe the chiefe Magiſtrate by his Majeſties Indulgence, and Charter, or rather the King himſelfe conſtituteth the Ma<g ref="char:EOLhyphen"/>giſtrate there by the people, authorized by his Graunt to make ſuch election; and hence the Magiſtrate ſo elected is called, <hi>Miniſter Regis,</hi> the Kings Miniſter, and the Kings Lievtenant, repreſenting his Perſon, and governing there in his ſteade, and by his Authority and Power.</p>
+               <p>And that God gives power to Kings and Princes is plaine, from <hi>Dan.</hi> 2.37. The God of Heaven hath gi<g ref="char:EOLhyphen"/>ven thee a Kingdome, power, and ſtrength, and glory: And that God alſo conſtituteth Kings, and Princes is pro<g ref="char:EOLhyphen"/>ved from <hi>Dan.</hi> 2.21. He removeth Kings, and ſetteth up Kings; and from <hi>Dan.</hi> 4.17.25.32. He ruleth in the Kingdome of men, and giveth it to whomſoever he will: Likewiſe St. <hi>Paul</hi> tells us, that the Higher Powers are or<g ref="char:EOLhyphen"/>dained by God, <hi>Rom.</hi> 13. And whoſoever reſiſteth the po<g ref="char:EOLhyphen"/>wer reſiſteth the O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dinance of God, v. 2. And that the people cannot (of them ſelves) impower, or conſtitute: the ſupreame Magiſtrate is proved thus: the Magiſtrate is over mens perſons and eſtates, and extends unto fines, impriſonment, and death it ſelfe, and hence is it called the power of the ſword. <hi>Rom.</hi> 13.4. now the people are un<g ref="char:EOLhyphen"/>der the commandements, Thou ſhalt not kill. Thou ſhalt not ſteale; and they cannot give order to any to take away anothers life and eſtate without guilt of murder and theft: onely God who is above the Law, the Lord poſſeſſor of Heaven and Earth, and the Lord of life and death can give this authority and power; and he giveth it to the Ma<g ref="char:EOLhyphen"/>giſtrate for the adminiſtration of juſtice onely; for he hath ſaid, vengeance is mine and I will repay, <hi>Deut.</hi> 32.35. And he makes the Magiſtrate his Miniſter, a revenger to execute wrath upon him that doth evill, <hi>Rom.</hi> 13.4. Wherefore wee muſt needes be ſubject not only for wrath, but alſo for conſcience ſake. v. 5.</p>
+            </div>
+            <div type="letter">
+               <pb n="5" facs="tcp:152635:3"/>
+               <head>A Letter from <hi>Scotland,</hi> &amp;c.</head>
+               <opener>
+                  <salute>Sir:</salute>
+               </opener>
+               <p>YOurs of the ſeventh inſtant, I received, where<g ref="char:EOLhyphen"/>by any man may eaſily perceive your great and ſad perplexities in regard of the preſent diſtracti<g ref="char:EOLhyphen"/>ons, which trouble you the more, becauſe you ſeeme to be deſtitute of advice which way to turne, ſhould a new war (as is juſtly feared) break forth. Sir, though other<g ref="char:EOLhyphen"/>wiſe conſcious of my owne wants, I cannot dictate to you any certaine Rules of direction; yet my preſent thoughts of the ſtate of things heere ſhall not be want<g ref="char:EOLhyphen"/>ing to you: For mine own &amp; others ſatisfaction, my ſtay in theſe parts hath been ſomewhat curiouſly imployed to ſearch out myſteries, and all that can be diſcovered yet, is, that 'tis evident the Grandees who ſit at ſterne, have fixed their reſolution to engage your Indepen<g ref="char:EOLhyphen"/>dent Party in a new warre; in proſecution whereof their whole endeavour now is, to purge out, or quell at leaſt the ſame ſide in both Houſes heere: which once effected, the next deſigne ſeemes to be ſome attempt upon the Army with you, to try whether by jealouſies and diſcontents they can make a Diviſion, and ſo bring it to a confuſion, or elſe by free-quarter, impoſitions, or other oppreſſing meanes, to provoke the long en<g ref="char:EOLhyphen"/>ſlaved people to caſt off their yoke, and once more ſtand up for liberty: For this purpoſe upon ſpecious pretences they ſeeme to comply with Malignants, till they can get ſtrength enough to ſettle their Presbyte<g ref="char:EOLhyphen"/>riall government, in its full careere and tyranny; but what ever the colour is, be aſſured there is nothing leſſe intended, then to take in the Kings party, for feare leſt once engaged, they ſhould be able to curbe
+<pb n="6" facs="tcp:152635:4"/> the Presbytery: Nor are encouragements wanting for bringing about their ends, as long as that Party doth ſtil prevaile at Weſtminſter, or there be hearts or money ready in the City to invite them in. To which you may adde the deſign of thoſe that have obtained leave (as we heare) to retire into their ſeveral Counties, eſpecially the Northern, wher they ſleep not ſupinely; but upo<g ref="char:cmbAbbrStroke">̄</g> every occaſion animate the people in all poſ<g ref="char:EOLhyphen"/>ſible arguments, now if ever to regaine their freedome by lending aſſiſtance to their dear, and deeply engag'd B ethren: to which no ſmall advantage the Northern Presbyters afford them, eſpecially about <hi>York,</hi> where at this day upon all ſorts of people (as the report goes) the Covenant is ingag'd, and all manner of motives uſed for a brotherly aſſiſtance, if they hope to be free'd from an Independent ſl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>very; and which is worſe, an inundation of all manner of Sects and Hereſies. Wee are told likwiſe, the two Houſes of late have beene ve<g ref="char:EOLhyphen"/>ry ſolicitous to disband thoſe York: ſhire Regiments, which were any whit inclined to Presbytery, where<g ref="char:EOLhyphen"/>by the diſcon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ented Souldery (whoſe Religion is their money) being unſatisfied for arreares, are ready upon the leaſt opportunity to engage againſt the Parliament, and in all likelyhood are very active to draw in their fellow-Souldiers to their Party, that ſo both in due time may be fully revenged upon thoſe ingratefull M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſters. In my opinion it had been more wiſedome in our Grandees, by ſending downe ſome well gifted Emiſſaries, who in all popular Auditories, might have poſſeſſed the Pulpits, and refuted thoſe rigid Presby<g ref="char:EOLhyphen"/>te<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ian Tenents; ſo to have reclaimed the Northerne people from this dangerous recidivation, rather then
+<pb n="7" facs="tcp:152635:4"/> ſo inconſiderately to have caſheered part of their Ar<g ref="char:EOLhyphen"/>my, and ſo put them into a condition to doe themſelves a miſchiefe when time ſerves. Moſt certaine it is, ſome Parliament men of thoſe parts, who dayly vote at <hi>Weſtminſter</hi> againſt the Presbyterian Party, have notwithſtanding their Agents heere at <hi>Edenborough</hi> tranſacting their deſignes with the Scots, and to my knowledge, <hi>H. D. H. C.</hi> and <hi>R. D.</hi> have given aſſurance to deſert the Houſes ſo ſoone as they receive certaine intelligence of the Scots advance upon En<g ref="char:EOLhyphen"/>gliſh ground; by theſe particulars you may eaſily con<g ref="char:EOLhyphen"/>jecture wherein our <hi>Sampſons</hi> ſtrength lyes.</p>
+               <p>That the Scots will not engage the Kings Party in this their deſigne, is more then probable, not onely becauſe they have refuſed the Marqueſſe of <hi>Montroſſe</hi> his imployment in their Army; but alſo becauſe they are ſtill preſſing that Party to take the Nationall Co<g ref="char:EOLhyphen"/>venant, or forthwith to depart the Kingdome. I can aſſure you, in Spaine under the Inquiſition, or at Con<g ref="char:EOLhyphen"/>ſtantinople under the great Turke, you may enjoy li<g ref="char:EOLhyphen"/>berty of conſcience, ſooner then now in Scotland un<g ref="char:EOLhyphen"/>der the Presbytery; for from all ſorts of men an ab<g ref="char:EOLhyphen"/>ſolute, neceſſary and unlimited obedience is required, the conformity of the outward man being not ſat is<g ref="char:EOLhyphen"/>factory, without the approbation of Will and Judge<g ref="char:EOLhyphen"/>ment; you muſt be conſtrained to take all ſorts of Oathes that are impoſed without diſputing the lawfull<g ref="char:EOLhyphen"/>neſſe of them: Therefore in my opinion, you had better forbeare comming hither as yet, if you deſire freedome, and the enjoyment of a good conſcience, which you have hitherto ſo carefully preſerved; for in that reſpect it is much more ſafe to live at Rome, or
+<pb n="6" facs="tcp:152635:5" rendition="simple:additions"/> Conſtantinople, for exerciſe of the Reformed Religi<g ref="char:EOLhyphen"/>on, then it is in Scotland, under the tyranny of the Scots Presbytery, which in England is yet but an Em<g ref="char:EOLhyphen"/>brio, or at moſt but an Infant of few dayes old, in com<g ref="char:EOLhyphen"/>pariſon of the full ſtrength it hath attained to heere, ruling in a moſt rigid and imperious way, judging all, being judged of none; and ſince from the Aſſembly no appeale lyes either to King or Parliament, you can<g ref="char:EOLhyphen"/>not beleeve how inſolent every Miniſter is growne, preſuming to Lord it over us; ſo that if not of their opinion, though otherwiſe never ſo unblameable in life, preſently you ſhall be defamed openly in the Pul<g ref="char:EOLhyphen"/>pit by name, and debarred from the comfortable com<g ref="char:EOLhyphen"/>munion of Chriſts body and blood: Reade but their laſt D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>claration of March the firſt, and you may ſoone judge of what ſpirit thoſe men are. For other affaires I can give you no ſatisfactory account; the Parlia<g ref="char:EOLhyphen"/>ment as yet having done little or nothing in the maine buſineſſe, ſave onely the pu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ging of their Houſe, and ſetting the due elections of their Members, as alſo ap<g ref="char:EOLhyphen"/>poynting a Committee to draw up a Declaration for juſtifying their Commiſſioners carriage in England, and to prepare an anſwer to the late Declaration of the Parliament at Weſtminſter, and touching the procee<g ref="char:EOLhyphen"/>dings of the Army. Thus Sir, having given you a true repreſentation of the ſtate of things heere, I ſhall leave you to the Conduct of your owne prudence, and God Almighties providence, for the future ſtee<g ref="char:EOLhyphen"/>ring of your courſe; and remaine ever,</p>
+               <closer>
+                  <dateline>Edenborough
+<date>14. March 1647.</date>
+                  </dateline>
+                  <salute>Sir,</salute>
+                  <signed>Your moſt affectionate and faithfull Servant.</signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
